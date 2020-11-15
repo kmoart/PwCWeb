@@ -1,0 +1,15 @@
+.breadcrumb {
+    background-color: #fff; 
+    
+}
+
+.breadcrumb .breadcrumb-item a {
+    color: #404041 !important;
+    font-size: 13px;
+    font-size: .929rem;
+    margin: 0 1px;
+}
+
+.image{
+    background: url();
+}
